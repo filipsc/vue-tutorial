@@ -1,3 +1,16 @@
+.color-box{
+    padding: 4px 8px;
+    margin-top: 5px;
+}
+
+.counter{
+    padding: 4px 8px;
+}
+
+.disBtn{
+    background-color: red;
+}
+
 .product-image{
     display: inline-block;
     width: 50%;
@@ -10,9 +23,25 @@
     float: left;
 }
 
+.product-list{
+    display:block;
+    height: 20px;
+}
+
+.product-listitem{
+    display: inline-block;
+    background-color: lightgrey;
+    padding: 4px 8px;
+    float: left;
+}
+
 .sock-image{
     display: block;
     width: 200px;
     height: 200px;
     margin: 0 auto;
+}
+
+.sub-header{
+    display: block;
 }
